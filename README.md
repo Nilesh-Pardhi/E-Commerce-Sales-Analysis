@@ -52,8 +52,6 @@ Using data cleaning, exploratory data analysis, SQL queries, and interactive das
 
 ![Superstore Sales Dashboard](dashboard_Ecommerce.png)
 =======
-![Superstore Sales Dashboard](dashboard.png)
->>>>>>> 5910bc36e68f07848cee8c7c3c2ff45a2e0b12f0
 
 Built with business users in mind — making it easy to explore sales performance, profitability, customers, products, and regions through interactive filters.
 
