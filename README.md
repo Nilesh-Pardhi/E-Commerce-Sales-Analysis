@@ -50,7 +50,7 @@ Using data cleaning, exploratory data analysis, SQL queries, and interactive das
 
 ## 🖥 Power BI Dashboard Preview
 
-![Superstore Sales Dashboard](dashboard.png)
+![Superstore Sales Dashboard](dashboard_Ecommerce.png)
 
 Built with business users in mind — making it easy to explore sales performance, profitability, customers, products, and regions through interactive filters.
 
