@@ -1,4 +1,4 @@
-# 🛒 Business Insights with Superstore Sales Analytics
+# 🛒 Superstore Sales Analytics 
 
 Welcome to a project where **business meets data**. This repository is an end-to-end analytics solution designed to analyze sales, profit, customers, products, and regional performance — answering important business questions:
 
@@ -51,7 +51,6 @@ Using data cleaning, exploratory data analysis, SQL queries, and interactive das
 ## 🖥 Power BI Dashboard Preview
 
 ![Superstore Sales Dashboard](dashboard_Ecommerce.png)
-=======
 
 Built with business users in mind — making it easy to explore sales performance, profitability, customers, products, and regions through interactive filters.
 
